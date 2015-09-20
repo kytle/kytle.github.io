@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://kytle.github.io/sitemap.xml 

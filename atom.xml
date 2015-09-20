@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://kytle.github.io/atom.xml" rel="self"/>
   <link href="http://kytle.github.io/"/>
-  <updated>2015-09-20T18:07:32+08:00</updated>
+  <updated>2015-09-20T20:33:24+08:00</updated>
   <id>http://kytle.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zombie Ninjas Attack: A Survivor's Retrospective]]></title>
+    <link href="http://kytle.github.io/blog/2015/09/20/zombie-ninjas-attack-a-survivors-retrospective/"/>
+    <updated>2015-09-20T18:18:41+08:00</updated>
+    <id>http://kytle.github.io/blog/2015/09/20/zombie-ninjas-attack-a-survivors-retrospective</id>
+    <content type="html"><![CDATA[<p>This is a test!
+We need to prove it!</p>
+]]></content>
+  </entry>
   
 </feed>
